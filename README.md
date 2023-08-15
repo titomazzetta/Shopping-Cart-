@@ -1,7 +1,5 @@
 # Shopping Cart
 
-# React Shopping Cart
-
 A simple yet powerful shopping cart application built using React, React-Bootstrap, and Axios. This application showcases product listing, cart management, and a basic checkout functionality.
 
 ## Features
